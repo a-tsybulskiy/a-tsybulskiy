@@ -25,6 +25,3 @@ I am an experienced frontend developer with a wealth of experience in various pr
 ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?logo=prettier&logoColor=white)
 
 ![ChromeExtension](https://img.shields.io/badge/Chrome_Extension-%234285F4.svg?logo=googlechrome&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsybulskiy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=atsybulskiy&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
